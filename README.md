@@ -10,6 +10,14 @@ It is required to minimize the total weekly fluctuations in the use of labor.
 
 ## Get Started
 
-To launch this app you need Windows operation system and Matlab.
+### NOTE: To launch this app you need Windows operation system and Matlab.
+
+1. download decision-theory--planning- project.
+2. open Plan.sln in Visual Studio and rebuild solution.
+3. copy all files from input data folder to Plan->bin->Debug folder
+4. run Solution
+5. enjoy it!  
+
+### Thanks!
 
 
