@@ -6,5 +6,10 @@ The enterprise must draw up a schedule for the preventive repair of five of its 
 ![costs](/images/table1.png)  
 
 Repair can begin not earlier than the first week and not later than the beginning of the fourth for unit 1, not earlier than the beginning of the first and later the beginning of the third for unit 2, etc.  
-It is required to minimize the total weekly fluctuations in the use of labor.
+It is required to minimize the total weekly fluctuations in the use of labor.  
+
+## Get Started
+
+To launch this app you need Windows operation system and Matlab.
+
 
